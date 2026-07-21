@@ -32,4 +32,4 @@ cargo test -p compiler_core
 cargo test -p compiler_wasm
 ```
 
-The old standalone compiler repo is still present in `compiler/` for reference and native CLI/emulator workflow while the visualizer-facing crates settle.
+Compiler code cannot be made public because of degree requirements. Please contact me directly for access to the repo. 
