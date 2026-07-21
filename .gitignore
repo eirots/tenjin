@@ -20,6 +20,7 @@ out/
 .vscode/
 .idea/
 
+todo.md 
 # These crates cannot be public because of degree requirements. 
 crates/compiler_core
 compiler
