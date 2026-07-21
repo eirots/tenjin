@@ -1,0 +1,21 @@
+node_modules/
+dist/
+target/
+
+# Rust build output inside nested crates, if commands are run from there.
+crates/*/target/
+
+# Local debug/output artifacts from the compiler pipeline.
+out/
+*.asm
+*.bin
+*.lex
+*.sem
+*.dot
+*.png
+
+# These crates cannot be public because of degree requirements. 
+crates/compiler_core
+compiler
+
+.DS_Store
