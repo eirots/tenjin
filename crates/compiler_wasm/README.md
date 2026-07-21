@@ -1,0 +1,1 @@
+tiny, browser-facing wrapper around compiler_core

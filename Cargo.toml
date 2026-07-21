@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "crates/compiler_core",
+  "crates/compiler_wasm",
+]
+exclude = ["compiler"]
+resolver = "2"
